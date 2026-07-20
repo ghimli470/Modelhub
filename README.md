@@ -1,7 +1,7 @@
-Política de Privacidad de [Nombre de tu Aplicación]
-Última actualización: [Fecha actual, ej. Julio de 2026]
+Política de Privacidad de Modelhub - El taller
+Última actualización: 20/07/2026
 
-En [Tu Nombre o Nombre de tu Estudio/Marca] nos tomamos muy en serio la privacidad de nuestros usuarios. Esta Política de Privacidad describe cómo se recopila, utiliza y comparte la información cuando descargas y utilizas la aplicación móvil [Nombre de tu Aplicación] (en adelante, la "Aplicación").
+En Demix Minis nos tomamos muy en serio la privacidad de nuestros usuarios. Esta Política de Privacidad describe cómo se recopila, utiliza y comparte la información cuando descargas y utilizas la aplicación móvil Modelhub - El taller (en adelante, la "Aplicación").
 
 1. Información que recopilamos
 Información proporcionada por el usuario: La Aplicación procesa los textos, imágenes o entradas que introduces directamente en la interfaz para poder generar las respuestas basadas en Inteligencia Artificial.
@@ -34,6 +34,6 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te recomend
 7. Contacto
 Si tienes alguna pregunta o sugerencia sobre esta Política de Privacidad, no dudes en ponerte en contacto con nosotros en:
 
-Correo electrónico: [Tu correo electrónico de soporte/contacto]
+Correo electrónico: ghimli470@gmail.com
 
 Consejo final: Al publicarlo, asegúrate de que el formato Markdown se lea bien como texto web plano o HTML en la página que vayas a usar para que los revisores de Google lo aprueben sin problemas.
